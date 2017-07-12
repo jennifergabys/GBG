@@ -7,7 +7,7 @@ Cada viatura tera um dispositivo onde so podera ser acessado mediante ao login d
 # equipamentos
 jumpers, aparelho de digital, 1 caixinha, protobard, programaçao e peças alternativas
 
-- equipe 
+# equipe 
 - Letticia
 - Jennifer
 - Izabelly
